@@ -1,0 +1,24 @@
+{
+  "name": "html2everything",
+  "version": "0.0.0",
+  "description": "Loads HTML (file/url), parses every node with jQuery, convert them against element templates and outputs the complete document",
+  "main": "h2e.js",
+  "dependencies": {
+    "jsdom": "~0.2.15"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/polarity/html2everything.git"
+  },
+  "keywords": [
+    "html",
+    "parsing",
+    "convert"
+  ],
+  "author": "Robert Agthe",
+  "license": "BSD"
+}
